@@ -1,0 +1,15 @@
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_naive/2000_AsymKD_new_loss.pth evaluate result#############
+accuracy : 0.965
+
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_naive/4250_AsymKD_new_loss.pth evaluate result#############
+accuracy : 0.965
+
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_naive/1750_AsymKD_new_loss.pth evaluate result#############
+accuracy : 0.966
+
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_naive/750_AsymKD_new_loss.pth evaluate result#############
+accuracy : 0.962
+
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_naive/1000_AsymKD_new_loss.pth evaluate result#############
+accuracy : 0.964
+

@@ -1,0 +1,4176 @@
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/86250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.524
+rmse_linear : 3.949
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.239
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/86000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.91
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.54
+rmse_linear : 4.059
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.649
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/85500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.518
+rmse_linear : 3.95
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.161
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/85250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.542
+rmse_linear : 4.05
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.613
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/86500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.514
+rmse_linear : 3.93
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.187
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/86750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.909
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.543
+rmse_linear : 4.053
+rmse_log : 0.138
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.722
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/85750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.529
+rmse_linear : 4.002
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.401
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/87000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.523
+rmse_linear : 3.993
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.427
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/85000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.529
+rmse_linear : 4.028
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.432
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/84500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.521
+rmse_linear : 3.996
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.311
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/84250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.534
+rmse_linear : 4.023
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.593
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/84750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.523
+rmse_linear : 4.0
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.366
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/84000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.91
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.549
+rmse_linear : 4.079
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.668
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/83750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.532
+rmse_linear : 4.021
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.474
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/83000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.507
+rmse_linear : 3.914
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.086
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/82750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.983
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.509
+rmse_linear : 3.967
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.171
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/83500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.535
+rmse_linear : 4.04
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.45
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/82500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.514
+rmse_linear : 3.953
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.215
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/82250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.518
+rmse_linear : 3.968
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.205
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/82000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.511
+rmse_linear : 3.956
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.152
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/81750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.524
+rmse_linear : 4.03
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.01
+silog_rmse : 13.428
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/83250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.524
+rmse_linear : 3.94
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.19
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/81500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.538
+rmse_linear : 4.063
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.586
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/81250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.529
+rmse_linear : 3.998
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.536
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/80750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.525
+rmse_linear : 3.973
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.418
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/80250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.526
+rmse_linear : 3.999
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.396
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/80500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.522
+rmse_linear : 3.999
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.336
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/80000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.515
+rmse_linear : 3.939
+rmse_log : 0.132
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.176
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/81000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.524
+rmse_linear : 3.997
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.43
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/79500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.517
+rmse_linear : 3.984
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.257
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/79250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.518
+rmse_linear : 3.984
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.296
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/79000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.526
+rmse_linear : 3.995
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.437
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/78750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.512
+rmse_linear : 3.99
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.24
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/78500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.513
+rmse_linear : 3.973
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.238
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/78250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.541
+rmse_linear : 4.071
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.652
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/79750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.508
+rmse_linear : 3.921
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.985
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/77750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.526
+rmse_linear : 4.002
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.375
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/77500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.524
+rmse_linear : 4.012
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.315
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/77250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.531
+rmse_linear : 4.055
+rmse_log : 0.136
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.48
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/77000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.908
+delta2_acc : 0.981
+delta3_acc : 0.996
+abs_relative_difference : 0.098
+squared_relative_difference : 0.554
+rmse_linear : 4.136
+rmse_log : 0.139
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.862
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/76750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.535
+rmse_linear : 4.011
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.45
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/76500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.532
+rmse_linear : 4.03
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.529
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/78000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.523
+rmse_linear : 4.006
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.422
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/76000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.523
+rmse_linear : 3.99
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.419
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/75750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.91
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.548
+rmse_linear : 4.068
+rmse_log : 0.138
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.695
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/75500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.527
+rmse_linear : 4.007
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.373
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/75250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.535
+rmse_linear : 4.048
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.549
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/75000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.91
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.542
+rmse_linear : 4.088
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.655
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/76250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.908
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.098
+squared_relative_difference : 0.547
+rmse_linear : 4.086
+rmse_log : 0.139
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.797
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/74750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.538
+rmse_linear : 4.049
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.563
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/74500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.528
+rmse_linear : 4.01
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.359
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/74250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.545
+rmse_linear : 4.057
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.608
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/74000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.53
+rmse_linear : 4.008
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.426
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/73750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.909
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.549
+rmse_linear : 4.095
+rmse_log : 0.138
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.763
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/73500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.535
+rmse_linear : 4.049
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.562
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/73250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.537
+rmse_linear : 4.067
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.551
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/72750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.91
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.538
+rmse_linear : 4.049
+rmse_log : 0.138
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.676
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/72250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.525
+rmse_linear : 4.004
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.01
+silog_rmse : 13.42
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/72000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.518
+rmse_linear : 3.958
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.264
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/71750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.543
+rmse_linear : 4.046
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.63
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/71500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.91
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.548
+rmse_linear : 4.045
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.671
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/71250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.534
+rmse_linear : 3.989
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.457
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/73000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.536
+rmse_linear : 4.074
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.58
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/71000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.518
+rmse_linear : 3.99
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.231
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/72500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.531
+rmse_linear : 4.025
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.565
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/70750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.526
+rmse_linear : 3.969
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.01
+silog_rmse : 13.353
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/70500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.524
+rmse_linear : 3.984
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.284
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/70250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.529
+rmse_linear : 3.975
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.433
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/70000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.519
+rmse_linear : 3.953
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.243
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/69750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.528
+rmse_linear : 3.953
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.408
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/69250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.531
+rmse_linear : 4.003
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.474
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/68750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.51
+rmse_linear : 3.887
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.955
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/68500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.507
+rmse_linear : 3.89
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.003
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/68250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.536
+rmse_linear : 4.006
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.539
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/68000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.52
+rmse_linear : 3.937
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.22
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/69500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.532
+rmse_linear : 4.015
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.419
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/67750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.536
+rmse_linear : 3.999
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.466
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/69000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.532
+rmse_linear : 3.994
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.462
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/67500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.521
+rmse_linear : 3.974
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.277
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/67250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.513
+rmse_linear : 3.968
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.2
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/67000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.544
+rmse_linear : 4.048
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.61
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/66750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.54
+rmse_linear : 4.009
+rmse_log : 0.137
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.663
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/66500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.531
+rmse_linear : 4.01
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.53
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/66000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.54
+rmse_linear : 4.022
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.519
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/65500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.516
+rmse_linear : 3.986
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.252
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/65750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.532
+rmse_linear : 3.995
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.411
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/66250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.516
+rmse_linear : 3.948
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.253
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/65000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.536
+rmse_linear : 4.017
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.507
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/65250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.091
+squared_relative_difference : 0.522
+rmse_linear : 3.942
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.139
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/64750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.528
+rmse_linear : 4.001
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.425
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/64500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.53
+rmse_linear : 4.032
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.478
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/64250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.524
+rmse_linear : 4.021
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.365
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/64000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.525
+rmse_linear : 3.974
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.35
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/63250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.527
+rmse_linear : 4.02
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.409
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/63000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.525
+rmse_linear : 4.016
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.386
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/62750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.525
+rmse_linear : 4.032
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.39
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/62500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.907
+delta2_acc : 0.981
+delta3_acc : 0.996
+abs_relative_difference : 0.098
+squared_relative_difference : 0.564
+rmse_linear : 4.147
+rmse_log : 0.14
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.916
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/62250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.907
+delta2_acc : 0.981
+delta3_acc : 0.996
+abs_relative_difference : 0.099
+squared_relative_difference : 0.562
+rmse_linear : 4.144
+rmse_log : 0.14
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.923
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/63750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.541
+rmse_linear : 4.074
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.558
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/62000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.539
+rmse_linear : 4.04
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.54
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/63500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.524
+rmse_linear : 3.968
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.01
+silog_rmse : 13.322
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/61750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.907
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.099
+squared_relative_difference : 0.561
+rmse_linear : 4.124
+rmse_log : 0.14
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.93
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/61500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.528
+rmse_linear : 3.996
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.458
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/61250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.541
+rmse_linear : 4.046
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.532
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/61000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.54
+rmse_linear : 4.062
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.545
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/60750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.543
+rmse_linear : 4.028
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.528
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/60250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.909
+delta2_acc : 0.981
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.55
+rmse_linear : 4.112
+rmse_log : 0.138
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.736
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/59750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.91
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.556
+rmse_linear : 4.062
+rmse_log : 0.138
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.727
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/59500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.537
+rmse_linear : 4.016
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.513
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/59250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.909
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.552
+rmse_linear : 4.111
+rmse_log : 0.139
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.777
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/59000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.526
+rmse_linear : 3.99
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.312
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/58750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.536
+rmse_linear : 4.057
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.527
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/60500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.909
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.551
+rmse_linear : 4.076
+rmse_log : 0.138
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.709
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/58500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.908
+delta2_acc : 0.981
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.549
+rmse_linear : 4.117
+rmse_log : 0.139
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.795
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/60000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.544
+rmse_linear : 4.019
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.524
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/58250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.526
+rmse_linear : 4.005
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.479
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/58000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.997
+abs_relative_difference : 0.094
+squared_relative_difference : 0.519
+rmse_linear : 3.976
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.343
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/57750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.523
+rmse_linear : 3.954
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.01
+silog_rmse : 13.353
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/57500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.525
+rmse_linear : 3.981
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.355
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/57250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.908
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.552
+rmse_linear : 4.106
+rmse_log : 0.139
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.81
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/56750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.53
+rmse_linear : 4.028
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.484
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/57000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.518
+rmse_linear : 3.991
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.271
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/56250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.513
+rmse_linear : 3.917
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.069
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/56000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.531
+rmse_linear : 4.025
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.457
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/55750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.527
+rmse_linear : 3.955
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.361
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/55500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.524
+rmse_linear : 3.954
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.288
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/55250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.541
+rmse_linear : 3.966
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.491
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/55000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.531
+rmse_linear : 3.977
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.314
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/56500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.091
+squared_relative_difference : 0.516
+rmse_linear : 3.932
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.128
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/54500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.524
+rmse_linear : 3.971
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.29
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/54250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.521
+rmse_linear : 3.912
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.197
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/54000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.512
+rmse_linear : 3.948
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.19
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/53750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.52
+rmse_linear : 3.985
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.3
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/53500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.534
+rmse_linear : 3.959
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.431
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/54750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.522
+rmse_linear : 3.97
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.334
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/53250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.525
+rmse_linear : 3.937
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.217
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/52750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.523
+rmse_linear : 3.964
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.324
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/52500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.531
+rmse_linear : 4.003
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.386
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/52250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.528
+rmse_linear : 3.992
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.39
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/52000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.526
+rmse_linear : 3.94
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.306
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/51750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.522
+rmse_linear : 3.93
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.274
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/53000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.515
+rmse_linear : 3.921
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.127
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/51250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.541
+rmse_linear : 4.036
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.009
+silog_rmse : 13.528
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/51000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.521
+rmse_linear : 3.97
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.255
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/50750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.537
+rmse_linear : 4.023
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.438
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/50500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.53
+rmse_linear : 4.035
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.407
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/50250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.533
+rmse_linear : 4.02
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.009
+silog_rmse : 13.487
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/51500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.526
+rmse_linear : 3.956
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.227
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/50000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.527
+rmse_linear : 3.982
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.354
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/49500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.521
+rmse_linear : 3.969
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.321
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/49250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.538
+rmse_linear : 4.048
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.594
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/49000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.522
+rmse_linear : 3.957
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.312
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/48750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.516
+rmse_linear : 3.914
+rmse_log : 0.132
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.182
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/48500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.519
+rmse_linear : 3.995
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.282
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/48000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.539
+rmse_linear : 4.058
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.589
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/49750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.545
+rmse_linear : 4.068
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.612
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/47750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.546
+rmse_linear : 4.022
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.542
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/48250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.091
+squared_relative_difference : 0.511
+rmse_linear : 3.967
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.167
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/47500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.551
+rmse_linear : 4.064
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.647
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/47250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.545
+rmse_linear : 4.05
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.661
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/47000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.534
+rmse_linear : 3.983
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.469
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/46750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.535
+rmse_linear : 4.018
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.01
+silog_rmse : 13.472
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/46500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.531
+rmse_linear : 3.997
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.388
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/46000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.544
+rmse_linear : 4.002
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.55
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/45500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.535
+rmse_linear : 4.013
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.406
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/45250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.562
+rmse_linear : 4.099
+rmse_log : 0.138
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.723
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/45000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.544
+rmse_linear : 4.004
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.537
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/44750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.908
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.098
+squared_relative_difference : 0.564
+rmse_linear : 4.117
+rmse_log : 0.14
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.876
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/44500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.516
+rmse_linear : 3.966
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.217
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/45750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.909
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.558
+rmse_linear : 4.087
+rmse_log : 0.139
+log10 : 0.042
+i_rmse : 0.01
+silog_rmse : 13.802
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/46250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.982
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.54
+rmse_linear : 4.058
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.587
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/44250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.091
+squared_relative_difference : 0.52
+rmse_linear : 3.966
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.149
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/44000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.519
+rmse_linear : 3.987
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.293
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/43750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.094
+squared_relative_difference : 0.522
+rmse_linear : 3.935
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.316
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/43500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.097
+squared_relative_difference : 0.531
+rmse_linear : 3.993
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.581
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/43250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.503
+rmse_linear : 3.868
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.95
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/43000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.521
+rmse_linear : 3.947
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.278
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/42250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.539
+rmse_linear : 4.004
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.517
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/42000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.983
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.519
+rmse_linear : 3.969
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.253
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/41750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.525
+rmse_linear : 3.939
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.275
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/41500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.527
+rmse_linear : 3.971
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.307
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/41250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.514
+rmse_linear : 3.931
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.119
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/42750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.911
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.539
+rmse_linear : 4.044
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.597
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/41000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.532
+rmse_linear : 3.92
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.225
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/42500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.531
+rmse_linear : 3.987
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.453
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/40750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.532
+rmse_linear : 3.982
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.468
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/40500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.54
+rmse_linear : 3.986
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.427
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/40250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.518
+rmse_linear : 3.908
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.103
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/40000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.523
+rmse_linear : 3.977
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.351
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/39750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.507
+rmse_linear : 3.891
+rmse_log : 0.13
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.955
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/39250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.509
+rmse_linear : 3.889
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.046
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/39500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.922
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.493
+rmse_linear : 3.885
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.841
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/38500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.922
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.503
+rmse_linear : 3.904
+rmse_log : 0.13
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.943
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/38750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.513
+rmse_linear : 3.927
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.152
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/38250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.525
+rmse_linear : 3.997
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.365
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/38000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.545
+rmse_linear : 4.042
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.625
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/37750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.097
+squared_relative_difference : 0.54
+rmse_linear : 3.992
+rmse_log : 0.137
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.589
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/37500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.513
+rmse_linear : 3.902
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.116
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/39000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.523
+rmse_linear : 3.912
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.116
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/37000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.545
+rmse_linear : 4.01
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.556
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/36500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.512
+rmse_linear : 3.944
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.116
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/36250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.537
+rmse_linear : 4.028
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.445
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/36750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.545
+rmse_linear : 4.003
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.49
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/36000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.533
+rmse_linear : 3.946
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.302
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/35750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.091
+squared_relative_difference : 0.523
+rmse_linear : 3.934
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.135
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/37250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.094
+squared_relative_difference : 0.521
+rmse_linear : 3.94
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.325
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/35250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.912
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.096
+squared_relative_difference : 0.546
+rmse_linear : 4.02
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.578
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/35000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.094
+squared_relative_difference : 0.523
+rmse_linear : 3.972
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.356
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/34750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.531
+rmse_linear : 4.033
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.492
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/34500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.515
+rmse_linear : 3.904
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.111
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/34250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.094
+squared_relative_difference : 0.522
+rmse_linear : 3.946
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.01
+silog_rmse : 13.345
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/34000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.091
+squared_relative_difference : 0.518
+rmse_linear : 3.94
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.111
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/35500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.516
+rmse_linear : 3.938
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.154
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/33500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.533
+rmse_linear : 3.991
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.009
+silog_rmse : 13.447
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/33000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.525
+rmse_linear : 3.921
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.178
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/33250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.525
+rmse_linear : 3.924
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.147
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/32500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.528
+rmse_linear : 3.985
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.448
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/32750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.517
+rmse_linear : 3.941
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.188
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/33750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.519
+rmse_linear : 3.953
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.281
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/32250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.53
+rmse_linear : 3.966
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.351
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/31750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.092
+squared_relative_difference : 0.519
+rmse_linear : 3.941
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.213
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/31500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.534
+rmse_linear : 3.961
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.255
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/31250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.534
+rmse_linear : 3.962
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.01
+silog_rmse : 13.403
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/31000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.093
+squared_relative_difference : 0.534
+rmse_linear : 3.943
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.238
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/30750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.54
+rmse_linear : 3.961
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.36
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/32000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.516
+rmse_linear : 3.93
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.149
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/30250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.511
+rmse_linear : 3.912
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.07
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/30500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.984
+delta3_acc : 0.996
+abs_relative_difference : 0.091
+squared_relative_difference : 0.53
+rmse_linear : 3.923
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.069
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/30000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.513
+rmse_linear : 3.897
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.074
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/29750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.511
+rmse_linear : 3.904
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.057
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/29500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.516
+rmse_linear : 3.959
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.291
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/29250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.914
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.096
+squared_relative_difference : 0.531
+rmse_linear : 3.962
+rmse_log : 0.135
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.456
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/29000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.508
+rmse_linear : 3.886
+rmse_log : 0.132
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.143
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/28500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.502
+rmse_linear : 3.89
+rmse_log : 0.13
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.976
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/28000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.913
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.547
+rmse_linear : 4.004
+rmse_log : 0.136
+log10 : 0.041
+i_rmse : 0.01
+silog_rmse : 13.528
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/27750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.523
+rmse_linear : 3.935
+rmse_log : 0.133
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.22
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/27500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.508
+rmse_linear : 3.894
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.993
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/27250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.496
+rmse_linear : 3.839
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.826
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/28750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.919
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.517
+rmse_linear : 3.893
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.123
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/27000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.516
+rmse_linear : 3.909
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.111
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/26750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.516
+rmse_linear : 3.889
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.006
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/28250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.511
+rmse_linear : 3.912
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.061
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/26500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.511
+rmse_linear : 3.858
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.015
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/26250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.512
+rmse_linear : 3.841
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.84
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/26000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.917
+delta2_acc : 0.985
+delta3_acc : 0.996
+abs_relative_difference : 0.095
+squared_relative_difference : 0.543
+rmse_linear : 3.944
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.347
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/25750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.535
+rmse_linear : 3.945
+rmse_log : 0.133
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.251
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/25250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.511
+rmse_linear : 3.883
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.011
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/25000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.503
+rmse_linear : 3.88
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.982
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/24500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.507
+rmse_linear : 3.867
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.98
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/25500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.922
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.511
+rmse_linear : 3.878
+rmse_log : 0.13
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.911
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/24250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.922
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.514
+rmse_linear : 3.871
+rmse_log : 0.13
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.916
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/24000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.508
+rmse_linear : 3.87
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.843
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/23750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.916
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.52
+rmse_linear : 3.971
+rmse_log : 0.134
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.299
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/24750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.505
+rmse_linear : 3.905
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.073
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/23250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.5
+rmse_linear : 3.889
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.983
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/23500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.915
+delta2_acc : 0.983
+delta3_acc : 0.996
+abs_relative_difference : 0.094
+squared_relative_difference : 0.536
+rmse_linear : 4.001
+rmse_log : 0.135
+log10 : 0.04
+i_rmse : 0.009
+silog_rmse : 13.427
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/23000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.505
+rmse_linear : 3.832
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.849
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/22500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.918
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.093
+squared_relative_difference : 0.526
+rmse_linear : 3.915
+rmse_log : 0.132
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.17
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/22250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.922
+delta2_acc : 0.984
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.504
+rmse_linear : 3.887
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.869
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/22000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.925
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.491
+rmse_linear : 3.818
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.701
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/21500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.518
+rmse_linear : 3.87
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.874
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/21250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.925
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.494
+rmse_linear : 3.83
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.649
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/21750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.508
+rmse_linear : 3.851
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.847
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/22750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.924
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.496
+rmse_linear : 3.821
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.764
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/21000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.511
+rmse_linear : 3.902
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.03
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/20750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.491
+rmse_linear : 3.828
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.771
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/20500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.498
+rmse_linear : 3.843
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.806
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/20250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.514
+rmse_linear : 3.877
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.992
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/20000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.922
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.51
+rmse_linear : 3.858
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.976
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/19750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.508
+rmse_linear : 3.837
+rmse_log : 0.129
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.87
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/19000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.494
+rmse_linear : 3.831
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.808
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/18750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.508
+rmse_linear : 3.822
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.823
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/18500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.926
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.086
+squared_relative_difference : 0.494
+rmse_linear : 3.798
+rmse_log : 0.126
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.582
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/18250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.92
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.092
+squared_relative_difference : 0.523
+rmse_linear : 3.874
+rmse_log : 0.131
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 13.069
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/18000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.926
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.499
+rmse_linear : 3.794
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.633
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/19500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.924
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.505
+rmse_linear : 3.83
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.767
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/17750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.494
+rmse_linear : 3.829
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.742
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/19250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.511
+rmse_linear : 3.868
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.975
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/17500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.5
+rmse_linear : 3.819
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.761
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/17250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.497
+rmse_linear : 3.812
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.779
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/17000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.521
+rmse_linear : 3.854
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.97
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/16750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.926
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.49
+rmse_linear : 3.765
+rmse_log : 0.126
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.583
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/16500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.921
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.091
+squared_relative_difference : 0.513
+rmse_linear : 3.85
+rmse_log : 0.13
+log10 : 0.039
+i_rmse : 0.009
+silog_rmse : 12.944
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/16000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.928
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.5
+rmse_linear : 3.794
+rmse_log : 0.125
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.447
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/15500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.926
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.5
+rmse_linear : 3.807
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.652
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/16250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.928
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.496
+rmse_linear : 3.794
+rmse_log : 0.125
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.452
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/15250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.928
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.499
+rmse_linear : 3.781
+rmse_log : 0.126
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.553
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/15000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.923
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.501
+rmse_linear : 3.836
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.779
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/14750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.927
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.521
+rmse_linear : 3.826
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.671
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/14500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.926
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.516
+rmse_linear : 3.8
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.674
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/14250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.489
+rmse_linear : 3.761
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.353
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/15750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.927
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.497
+rmse_linear : 3.785
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.609
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/14000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.926
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.503
+rmse_linear : 3.821
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.681
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/13500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.924
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.09
+squared_relative_difference : 0.522
+rmse_linear : 3.851
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.858
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/13250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.927
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.506
+rmse_linear : 3.813
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.622
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/13000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.926
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.086
+squared_relative_difference : 0.497
+rmse_linear : 3.796
+rmse_log : 0.126
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.562
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/12750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.929
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.491
+rmse_linear : 3.762
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.334
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/12500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.929
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.503
+rmse_linear : 3.799
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.008
+silog_rmse : 12.358
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/13750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.928
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.51
+rmse_linear : 3.81
+rmse_log : 0.126
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.57
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/12000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.927
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.497
+rmse_linear : 3.77
+rmse_log : 0.126
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.591
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/11500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.928
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.086
+squared_relative_difference : 0.511
+rmse_linear : 3.812
+rmse_log : 0.125
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.479
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/11750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.928
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.507
+rmse_linear : 3.793
+rmse_log : 0.125
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.468
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/11250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.927
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.528
+rmse_linear : 3.863
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.644
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/11000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.924
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.515
+rmse_linear : 3.831
+rmse_log : 0.128
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.797
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/10750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.506
+rmse_linear : 3.781
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.343
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/12250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.926
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.503
+rmse_linear : 3.817
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.639
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/10250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.463
+rmse_linear : 3.714
+rmse_log : 0.122
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.162
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/10000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.928
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.086
+squared_relative_difference : 0.504
+rmse_linear : 3.774
+rmse_log : 0.125
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.481
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/9750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.929
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.49
+rmse_linear : 3.768
+rmse_log : 0.125
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.419
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/9500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.083
+squared_relative_difference : 0.479
+rmse_linear : 3.74
+rmse_log : 0.123
+log10 : 0.036
+i_rmse : 0.008
+silog_rmse : 12.285
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/10500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.491
+rmse_linear : 3.762
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.333
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/9250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.474
+rmse_linear : 3.728
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.322
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/9000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.924
+delta2_acc : 0.985
+delta3_acc : 0.997
+abs_relative_difference : 0.089
+squared_relative_difference : 0.512
+rmse_linear : 3.833
+rmse_log : 0.129
+log10 : 0.038
+i_rmse : 0.009
+silog_rmse : 12.832
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/8500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.492
+rmse_linear : 3.746
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.35
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/8250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.929
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.48
+rmse_linear : 3.731
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.399
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/8000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.929
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.481
+rmse_linear : 3.746
+rmse_log : 0.125
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.437
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/7750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.927
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.5
+rmse_linear : 3.778
+rmse_log : 0.126
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.59
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/7250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.931
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.491
+rmse_linear : 3.737
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.307
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/8750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.927
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.087
+squared_relative_difference : 0.495
+rmse_linear : 3.77
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.608
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/7000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.497
+rmse_linear : 3.748
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.358
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/7500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.48
+rmse_linear : 3.687
+rmse_log : 0.121
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.064
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/6750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.931
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.466
+rmse_linear : 3.7
+rmse_log : 0.122
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.159
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/6500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.49
+rmse_linear : 3.733
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.343
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/6250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.933
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.496
+rmse_linear : 3.726
+rmse_log : 0.123
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.226
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/6000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.932
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.497
+rmse_linear : 3.733
+rmse_log : 0.123
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.249
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/5750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.932
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.083
+squared_relative_difference : 0.481
+rmse_linear : 3.724
+rmse_log : 0.123
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.227
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/5250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.932
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.494
+rmse_linear : 3.728
+rmse_log : 0.122
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.191
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/4750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.931
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.083
+squared_relative_difference : 0.469
+rmse_linear : 3.71
+rmse_log : 0.123
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.223
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/4500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.08
+squared_relative_difference : 0.479
+rmse_linear : 3.698
+rmse_log : 0.12
+log10 : 0.034
+i_rmse : 0.008
+silog_rmse : 11.982
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/4250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.933
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.081
+squared_relative_difference : 0.468
+rmse_linear : 3.676
+rmse_log : 0.121
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.037
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/4000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.933
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.474
+rmse_linear : 3.685
+rmse_log : 0.121
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.084
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/5500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.931
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.083
+squared_relative_difference : 0.471
+rmse_linear : 3.693
+rmse_log : 0.122
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.192
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/3750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.085
+squared_relative_difference : 0.479
+rmse_linear : 3.71
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.009
+silog_rmse : 12.322
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/5000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.933
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.466
+rmse_linear : 3.653
+rmse_log : 0.121
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.039
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/3500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.081
+squared_relative_difference : 0.483
+rmse_linear : 3.697
+rmse_log : 0.121
+log10 : 0.034
+i_rmse : 0.008
+silog_rmse : 12.019
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/3250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.931
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.486
+rmse_linear : 3.712
+rmse_log : 0.123
+log10 : 0.036
+i_rmse : 0.008
+silog_rmse : 12.269
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/3000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.081
+squared_relative_difference : 0.492
+rmse_linear : 3.714
+rmse_log : 0.121
+log10 : 0.034
+i_rmse : 0.008
+silog_rmse : 12.065
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/2750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.081
+squared_relative_difference : 0.485
+rmse_linear : 3.688
+rmse_log : 0.121
+log10 : 0.034
+i_rmse : 0.008
+silog_rmse : 12.07
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/2500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.488
+rmse_linear : 3.716
+rmse_log : 0.121
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.07
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/2000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.081
+squared_relative_difference : 0.477
+rmse_linear : 3.696
+rmse_log : 0.121
+log10 : 0.034
+i_rmse : 0.008
+silog_rmse : 12.018
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/1500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.479
+rmse_linear : 3.692
+rmse_log : 0.121
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.078
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/1250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.473
+rmse_linear : 3.672
+rmse_log : 0.121
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.055
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/1750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.934
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.081
+squared_relative_difference : 0.482
+rmse_linear : 3.692
+rmse_log : 0.121
+log10 : 0.034
+i_rmse : 0.008
+silog_rmse : 12.022
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/1000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.933
+delta2_acc : 0.986
+delta3_acc : 0.996
+abs_relative_difference : 0.083
+squared_relative_difference : 0.532
+rmse_linear : 3.832
+rmse_log : 0.123
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.293
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/2250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.935
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.496
+rmse_linear : 3.726
+rmse_log : 0.121
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.083
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.93
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.084
+squared_relative_difference : 0.486
+rmse_linear : 3.754
+rmse_log : 0.124
+log10 : 0.036
+i_rmse : 0.008
+silog_rmse : 12.369
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/500_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.933
+delta2_acc : 0.987
+delta3_acc : 0.997
+abs_relative_difference : 0.082
+squared_relative_difference : 0.482
+rmse_linear : 3.724
+rmse_log : 0.122
+log10 : 0.035
+i_rmse : 0.008
+silog_rmse : 12.153
+
+#######AsymKD /home/wodon326/project/InSDA-Injection_Segment_Depth_Anything/checkpoint_InSDA_sam_L_naive/250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.928
+delta2_acc : 0.986
+delta3_acc : 0.997
+abs_relative_difference : 0.088
+squared_relative_difference : 0.509
+rmse_linear : 3.794
+rmse_log : 0.127
+log10 : 0.037
+i_rmse : 0.009
+silog_rmse : 12.64
+

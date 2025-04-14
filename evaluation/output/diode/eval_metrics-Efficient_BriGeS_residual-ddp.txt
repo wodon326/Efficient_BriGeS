@@ -1,0 +1,60 @@
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_residual/2000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.751
+delta2_acc : 0.869
+delta3_acc : 0.921
+abs_relative_difference : 0.263
+squared_relative_difference : 18.305
+rmse_linear : 7.323
+rmse_log : 0.298
+log10 : 0.088
+i_rmse : 0.076
+silog_rmse : 28.368
+
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_residual/4250_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.751
+delta2_acc : 0.87
+delta3_acc : 0.922
+abs_relative_difference : 0.26
+squared_relative_difference : 17.417
+rmse_linear : 7.259
+rmse_log : 0.297
+log10 : 0.088
+i_rmse : 0.076
+silog_rmse : 28.243
+
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_residual/1750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.75
+delta2_acc : 0.868
+delta3_acc : 0.921
+abs_relative_difference : 0.259
+squared_relative_difference : 16.78
+rmse_linear : 7.211
+rmse_log : 0.298
+log10 : 0.088
+i_rmse : 0.076
+silog_rmse : 28.325
+
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_residual/750_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.749
+delta2_acc : 0.868
+delta3_acc : 0.921
+abs_relative_difference : 0.264
+squared_relative_difference : 18.437
+rmse_linear : 7.403
+rmse_log : 0.299
+log10 : 0.089
+i_rmse : 0.076
+silog_rmse : 28.433
+
+#######AsymKD /home/wodon326/project/Efficient_BriGeS/checkpoint_Efficient_BriGeS_residual/1000_AsymKD_new_loss.pth evaluate result#############
+delta1_acc : 0.75
+delta2_acc : 0.868
+delta3_acc : 0.921
+abs_relative_difference : 0.262
+squared_relative_difference : 17.594
+rmse_linear : 7.28
+rmse_log : 0.299
+log10 : 0.089
+i_rmse : 0.076
+silog_rmse : 28.442
+
