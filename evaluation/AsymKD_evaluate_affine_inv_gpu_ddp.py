@@ -620,7 +620,7 @@ if "__main__" == __name__:
     #     queue.put(f'{args.checkpoint_dir}/{i}00_AsymKD_new_loss.pth')
     
     
-    arr = ['27600', '27400', '24400', '24200', '22000', '20200', '18800', '5600']
+    arr = ['6750']
     for i in arr:
         queue.put(f'{args.checkpoint_dir}/{i}_AsymKD_new_loss.pth')
 

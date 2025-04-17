@@ -15,7 +15,7 @@ import argparse
 import torch.nn.functional as F
 from tqdm.auto import tqdm
 from segment_anything import sam_model_registry, SamPredictor
-from Efficient_BriGeS.Efficient_BriGeS_residual import Efficient_BriGeS_residual
+from Efficient_BriGeS.Efficient_BriGeS_residual_refine import Efficient_BriGeS_residual_refine
 from torch.multiprocessing import Manager
 import torch.distributed as dist
 import torch.multiprocessing as mp
@@ -138,14 +138,14 @@ def eval(rank, world_size, queue, args):
                     model = DepthAnythingV2(**model_configs[encoder]).to(rank)
                     model.load_state_dict(torch.load(f'/home/wodon326/datasets/AsymKD_checkpoints/depth_anything_v2_{encoder}.pth', map_location=rank))
                     model = model.to(rank).eval()
-            elif model_type == "Efficient_BriGeS_residual":
+            elif model_type == "Efficient_BriGeS_residual_refine":
                 segment_anything = sam_model_registry["vit_b"](checkpoint="Efficient_BriGeS_checkpoints/sam_vit_b_01ec64.pth").to(rank)
                 segment_anything_predictor = SamPredictor(segment_anything)
 
                 for child in segment_anything.children():
                     ImageEncoderViT = child
                     break
-                model = Efficient_BriGeS_residual(ImageEncoderViT=ImageEncoderViT).to(rank)
+                model = Efficient_BriGeS_residual_refine(ImageEncoderViT=ImageEncoderViT).to(rank)
                 if restore_ckpt is not None:
                     checkpoint = torch.load(restore_ckpt, map_location=torch.device('cuda', rank))
                     model.load_state_dict(checkpoint['model_state_dict'],strict=True)
@@ -260,7 +260,7 @@ if "__main__" == __name__:
     
     
     # arr = ['57800', '56400', '55600', '57000', '54800', '54400', '54200', '53000', '52600', '54000', '52400', '51200', '45600', '42600', '43400', '41200', '40200', '40000', '39800', '39400', '39200', '39000', '38200', '38000', '37800', '37600', '37400', '38800', '36000', '35200', '35000', '34600', '35800', '34400', '34200', '33800', '33200', '32200', '32000', '28600', '27800', '27400', '26200', '26000', '25600', '25000', '24600', '24400', '23200', '22400', '22600', '20800', '20600', '20400', '20000', '19800', '19400', '19000', '18800', '18400', '18200', '17600', '17200', '17000', '16800', '16000', '15400', '15200', '14600', '14200', '14000', '14800', '12400', '11600', '10600', '10000', '9800', '9200', '9000', '9400', '7800', '7400', '6600', '6200', '7000', '4600', '4400', '3800', '3600', '3200', '3000', '2800', '4200', '2600', '2400', '2200', '1600', '1400', '1000', '800', '600', '400', '200', '1200']
-    arr = ['2000', '4250', '1750',  '750', '1000']
+    arr = ['3250', '6000', '5750']
     for i in arr:
         queue.put(f'{args.checkpoint_dir}/{i}_AsymKD_new_loss.pth')
 

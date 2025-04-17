@@ -16,8 +16,8 @@ import torch.distributed as dist
 import torch.multiprocessing as mp
 from torch.nn.parallel import DistributedDataParallel as DDP
 
-from Efficient_BriGeS.Efficient_BriGeS_naive import Efficient_BriGeS_naive
-from Efficient_BriGeS.Efficient_BriGeS_residual import Efficient_BriGeS_residual
+from Efficient_BriGeS.Efficient_BriGeS_naive_tau import Efficient_BriGeS_naive_tau
+from Efficient_BriGeS.Efficient_BriGeS_residual_refine import Efficient_BriGeS_residual_refine
 from segment_anything import  sam_model_registry, SamPredictor
 
 from core.loss import GradL1Loss, ScaleAndShiftInvariantLoss, GradientMatchingLoss
@@ -289,7 +289,7 @@ def train(rank, world_size, args):
         for child in segment_anything.children():
             ImageEncoderViT = child
             break
-        model = Efficient_BriGeS_residual(ImageEncoderViT = ImageEncoderViT).to(rank)
+        model = Efficient_BriGeS_naive_tau(ImageEncoderViT = ImageEncoderViT).to(rank)
 
         checkpoint = "Efficient_BriGeS_checkpoints/depth_anything_v2_vitb.pth"
         new_state_dict = model.load_ckpt(checkpoint, device=torch.device('cuda', rank))

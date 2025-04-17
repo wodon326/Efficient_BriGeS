@@ -180,7 +180,7 @@ class Attention_tau(nn.Module):
     def __init__(
         self,
         dim: int,
-        tau : int,
+        tau_init: float = 1.0,  # 초기값 설정 가능
         num_heads: int = 8,
         qkv_bias: bool = False,
         proj_bias: bool = True,
@@ -190,8 +190,10 @@ class Attention_tau(nn.Module):
         super().__init__()
         self.num_heads = num_heads
         head_dim = dim // num_heads
-        self.scale = head_dim**-0.5
-        self.tau = tau
+        self.scale = head_dim ** -0.5
+
+        # learnable tau (positive constraint via softplus or exp)
+        self.tau_param = nn.Parameter(torch.tensor(tau_init).log())  # log 값으로 초기화 (exp로 복원)
 
         self.qkv = nn.Linear(dim, dim * 3, bias=qkv_bias)
         self.attn_drop = nn.Dropout(attn_drop)
@@ -203,24 +205,23 @@ class Attention_tau(nn.Module):
         qkv = self.qkv(x).reshape(B, N, 3, self.num_heads, C // self.num_heads).permute(2, 0, 3, 1, 4)
 
         q, k, v = qkv[0] * self.scale, qkv[1], qkv[2]
-        attn = (q @ k.transpose(-2, -1)) / self.tau
-        # torch.save(attn, f'tau{self.tau}_attn_feature.pt')
-        
-        # softmax_with_temperature(attn, tau = 2)
+
+        tau = torch.exp(self.tau_param)  # tau > 0
+        attn = (q @ k.transpose(-2, -1)) / tau
+
         attn = attn.softmax(dim=-1)
         attn = self.attn_drop(attn)
 
         x = (attn @ v).transpose(1, 2).reshape(B, N, C)
         x = self.proj(x)
         x = self.proj_drop(x)
-        # torch.save(x, f'tau{self.tau}_fusion_feature.pt')
         return x
 
 class CrossAttention_tau(nn.Module):
     def __init__(
         self,
         dim: int,
-        tau : int,
+        tau_init: float = 1.0,  # 기존 tau 대신 초기값 인자로 받음
         num_heads: int = 8,
         qkv_bias: bool = False,
         proj_bias: bool = True,
@@ -230,8 +231,10 @@ class CrossAttention_tau(nn.Module):
         super().__init__()
         self.num_heads = num_heads
         head_dim = dim // num_heads
-        self.scale = head_dim**-0.5
-        self.tau = tau
+        self.scale = head_dim ** -0.5
+
+        # learnable tau: log space로 초기화
+        self.tau_param = nn.Parameter(torch.tensor(tau_init).log())
 
         self.query = nn.Linear(dim, dim, bias=qkv_bias)
         self.key_value = nn.Linear(dim, dim * 2, bias=qkv_bias)
@@ -245,18 +248,16 @@ class CrossAttention_tau(nn.Module):
         key_value = self.key_value(y).reshape(B, N, 2, self.num_heads, C // self.num_heads).permute(2, 0, 3, 1, 4)
 
         q, k, v = query[0] * self.scale, key_value[0], key_value[1]
-        attn = (q @ k.transpose(-2, -1)) / self.tau
-        # torch.save(attn, f'tau{self.tau}_attn_feature.pt')
 
+        tau = torch.exp(self.tau_param)  # tau는 항상 양수
+        attn = (q @ k.transpose(-2, -1)) / tau
 
-        # softmax_with_temperature(attn, tau = 1)
         attn = attn.softmax(dim=-1)
         attn = self.attn_drop(attn)
 
         x = (attn @ v).transpose(1, 2).reshape(B, N, C)
         x = self.proj(x)
         x = self.proj_drop(x)
-        # torch.save(x, f'tau{self.tau}_fusion_feature.pt')
         return x
 
 

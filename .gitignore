@@ -12,7 +12,7 @@ eval_result*
 *.npz
 feature_visualize*
 Exception_catch.txt
-
+evaluation/output/
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/

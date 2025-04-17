@@ -262,8 +262,8 @@ class Block_tau(nn.Module):
     def __init__(
         self,
         dim: int,
-        tau : int,
         num_heads: int,
+        tau : int = 1,
         mlp_ratio: float = 4.0,
         qkv_bias: bool = False,
         proj_bias: bool = True,
@@ -282,7 +282,7 @@ class Block_tau(nn.Module):
         self.norm1 = norm_layer(dim)
         self.attn = attn_class(
             dim,
-            tau = tau,
+            tau_init = tau,
             num_heads=num_heads,
             qkv_bias=qkv_bias,
             proj_bias=proj_bias,
@@ -337,8 +337,8 @@ class CrossAttentionBlock_tau(nn.Module):
     def __init__(
         self,
         dim: int,
-        tau : int,
         num_heads: int,
+        tau : int = 1,
         mlp_ratio: float = 4.0,
         qkv_bias: bool = False,
         proj_bias: bool = True,
@@ -358,7 +358,7 @@ class CrossAttentionBlock_tau(nn.Module):
         self.norm1_y = norm_layer(dim)
         self.attn = attn_class(
             dim,
-            tau = tau,
+            tau_init = tau,
             num_heads=num_heads,
             qkv_bias=qkv_bias,
             proj_bias=proj_bias,

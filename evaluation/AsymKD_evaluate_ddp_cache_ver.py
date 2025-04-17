@@ -50,7 +50,7 @@ import torch.nn.functional as F
 from segment_anything import sam_model_registry, SamPredictor
 
 
-from Efficient_BriGeS.Efficient_BriGeS_residual import Efficient_BriGeS_residual
+from Efficient_BriGeS.Efficient_BriGeS_residual_refine import Efficient_BriGeS_residual_refine
 from torch.multiprocessing import Manager
 import torch.distributed as dist
 import torch.multiprocessing as mp
@@ -103,7 +103,7 @@ eval_metrics = [
 
 def setup(rank, world_size):
     os.environ['MASTER_ADDR'] = 'localhost'
-    os.environ['MASTER_PORT'] = '12360'
+    os.environ['MASTER_PORT'] = '12364'
     dist.init_process_group("nccl", rank=rank, world_size=world_size)
 
 def cleanup():
@@ -180,14 +180,14 @@ def eval(rank, world_size, queue, args):
                     logging.info("Loading checkpoint...")
                     checkpoint = torch.load(restore_ckpt, map_location=torch.device('cuda', rank))
                     model.load_state_dict(checkpoint['model_state_dict'],strict=True)
-            elif model_type == "Efficient_BriGeS_residual":
+            elif model_type == "Efficient_BriGeS_residual_refine":
                 segment_anything = sam_model_registry["vit_b"](checkpoint="Efficient_BriGeS_checkpoints/sam_vit_b_01ec64.pth").to(rank)
                 segment_anything_predictor = SamPredictor(segment_anything)
 
                 for child in segment_anything.children():
                     ImageEncoderViT = child
                     break
-                model = Efficient_BriGeS_residual(ImageEncoderViT=ImageEncoderViT).to(rank)
+                model = Efficient_BriGeS_residual_refine(ImageEncoderViT=ImageEncoderViT).to(rank)
                 if restore_ckpt is not None:
                     logging.info("Loading checkpoint...")
                     checkpoint = torch.load(restore_ckpt, map_location=torch.device('cuda', rank))
@@ -428,7 +428,7 @@ if "__main__" == __name__:
     # for i in range(end_num,start_num-1,-args.save_step):
     #     queue.put(f'{args.checkpoint_dir}/{i}_AsymKD_new_loss.pth')
 
-    arr = ['2000', '4250', '1750',  '750', '1000']
+    arr = ['22000', '21750', '15250', '14250', '12000', '8750', '8250', '7750', '7500', '6750', '6500', '5500', '5250', '5000', '6000', '4250', '4000', '3750', '5750', '3250', '3000', '2250', '1500', '1000']
     for i in arr:
         queue.put(f'{args.checkpoint_dir}/{i}_AsymKD_new_loss.pth')
 

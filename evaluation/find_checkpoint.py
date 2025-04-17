@@ -1,25 +1,25 @@
 import re
 
 # 임계값 설정 tau x
-# delta1_threshold_arr = [0.946, 0.979, 0.984, 0.754, 0.978]
-# abs_relative_difference_threshold_arr = [0.076,0.044,0.050,0.250,0.043]
+delta1_threshold_arr = [0.938, 0.976, 0.980, 0.749, 0.974]
+abs_relative_difference_threshold_arr = [0.081,0.047,0.054,0.250,0.048]
+data_name_arr = ['kitti_eigen_test','nyu_test', 'eth3d', 'diode', 'scannet']
 
 # 임계값 설정 tau 3
 # delta1_threshold_arr = [0.95, 0.984, 0.983, 0.759, 0.983]
 # abs_relative_difference_threshold_arr = [0.076,0.04,0.052,0.225,0.041]
 data_checkpoint = []
-# data_name_arr = ['kitti_eigen_test','nyu_test', 'eth3d', 'diode', 'scannet']
 
 
-delta1_threshold_arr = [0.938]
-abs_relative_difference_threshold_arr = [0.081]
-data_name_arr = ['kitti_eigen_test']
+# delta1_threshold_arr = [0.937]
+# abs_relative_difference_threshold_arr = [0.081]
+# data_name_arr = ['kitti_eigen_test']
 for name, delta1_threshold, abs_relative_difference_threshold, in zip(data_name_arr, delta1_threshold_arr,abs_relative_difference_threshold_arr):
     # 파일 경로 설정 tau x
     # file_path = f'/home/wodon326/project/AsymKD_VIT_Adapter_large/output/{name}/eval_metrics-bfm-ddp.txt'
 
     # 파일 경로 설정 tau 3
-    file_path = f'output/{name}/eval_metrics-Efficient_BriGeS_residual-ddp.txt'
+    file_path = f'output/{name}/eval_metrics-Efficient_BriGeS_residual_refine-ddp.txt'
     # 체크포인트를 저장할 리스트
     checkpoints = []
 
@@ -56,7 +56,7 @@ for name, delta1_threshold, abs_relative_difference_threshold, in zip(data_name_
     data_checkpoint.append(checkpoints)
     # print(f'{name} : {len(checkpoints)} : {checkpoints}')
     print(f'{name} : {len(checkpoints)}')
-    print(checkpoints)
+    # print(checkpoints)
 
 
 common_elements = set(data_checkpoint[0])
