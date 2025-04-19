@@ -175,12 +175,11 @@ class CrossAttention(nn.Module):
         x = self.proj_drop(x)
         return x
 
-
 class Attention_tau(nn.Module):
     def __init__(
         self,
         dim: int,
-        tau_init: float = 1.0,  # 초기값 설정 가능
+        tau_init: float = 1.0,  # 초기값
         num_heads: int = 8,
         qkv_bias: bool = False,
         proj_bias: bool = True,
@@ -192,8 +191,9 @@ class Attention_tau(nn.Module):
         head_dim = dim // num_heads
         self.scale = head_dim ** -0.5
 
-        # learnable tau (positive constraint via softplus or exp)
-        self.tau_param = nn.Parameter(torch.tensor(tau_init).log())  # log 값으로 초기화 (exp로 복원)
+        # Learnable tau with softplus
+        self.tau_param = nn.Parameter(torch.tensor(float(tau_init)))
+
 
         self.qkv = nn.Linear(dim, dim * 3, bias=qkv_bias)
         self.attn_drop = nn.Dropout(attn_drop)
@@ -206,7 +206,7 @@ class Attention_tau(nn.Module):
 
         q, k, v = qkv[0] * self.scale, qkv[1], qkv[2]
 
-        tau = torch.exp(self.tau_param)  # tau > 0
+        tau = F.softplus(self.tau_param) + 1e-6
         attn = (q @ k.transpose(-2, -1)) / tau
 
         attn = attn.softmax(dim=-1)
@@ -221,7 +221,7 @@ class CrossAttention_tau(nn.Module):
     def __init__(
         self,
         dim: int,
-        tau_init: float = 1.0,  # 기존 tau 대신 초기값 인자로 받음
+        tau_init: float = 1.0,  # 초기값
         num_heads: int = 8,
         qkv_bias: bool = False,
         proj_bias: bool = True,
@@ -233,8 +233,9 @@ class CrossAttention_tau(nn.Module):
         head_dim = dim // num_heads
         self.scale = head_dim ** -0.5
 
-        # learnable tau: log space로 초기화
-        self.tau_param = nn.Parameter(torch.tensor(tau_init).log())
+        # Learnable tau: softplus를 쓰기 위한 unconstrained 파라미터
+        self.tau_param = nn.Parameter(torch.tensor(float(tau_init)))
+
 
         self.query = nn.Linear(dim, dim, bias=qkv_bias)
         self.key_value = nn.Linear(dim, dim * 2, bias=qkv_bias)
@@ -249,7 +250,7 @@ class CrossAttention_tau(nn.Module):
 
         q, k, v = query[0] * self.scale, key_value[0], key_value[1]
 
-        tau = torch.exp(self.tau_param)  # tau는 항상 양수
+        tau = F.softplus(self.tau_param) + 1e-6  # softplus로 양수 보장, 너무 0 근처 방지
         attn = (q @ k.transpose(-2, -1)) / tau
 
         attn = attn.softmax(dim=-1)
